@@ -1,0 +1,13 @@
+*.pidb
+*.userprefs
+*.swp
+*.DS_Store
+*.nib
+*.suo
+*.csproj.user
+
+packages/
+Components/
+
+bin/
+obj/
